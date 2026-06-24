@@ -183,7 +183,7 @@ namespace MovieSearchApp
             MinimizeBox = false;
             Name = "MovieEditForm";
             StartPosition = FormStartPosition.CenterParent;
-            Text = "映画データ";
+            Text = "作品データ";
 
             ((System.ComponentModel.ISupportInitialize)numRating).EndInit();
             ResumeLayout(false);
