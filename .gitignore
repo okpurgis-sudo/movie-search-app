@@ -1,0 +1,15 @@
+bin/
+obj/
+.vs/
+
+*.user
+*.suo
+*.cache
+
+*.db
+*.sqlite
+*.sqlite3
+
+*.log
+
+Properties/PublishProfiles/
