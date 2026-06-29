@@ -96,7 +96,7 @@ C:\Users\ユーザー名\AppData\Local\MovieSearchApp\MovieSearchApp.db
 最新版は GitHub Releases からダウンロードできます。
 
 ```text
-https://github.com/あなたのユーザー名/movie-search-app/releases
+https://github.com/okpurgis-sudo/movie-search-app/releases
 ```
 
 リリースページから `MovieSearchApp_v1.0.0.zip` などの配布ファイルをダウンロードしてください。
