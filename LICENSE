@@ -1,22 +1,40 @@
-```text
-MIT License
+Movie Search App License
 
-Copyright (c) 2026 Okpurgis-sduo
+Copyright (c) 2026 Maca Maca
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the “Software”), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+本ソフトウェアは、個人利用および非商用利用に限り、無償で使用、複製、改変、再配布することを許可します。
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+本ソフトウェアの改変版を再配布する場合は、元の著作権表示および本ライセンス文を含めてください。
 
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+商用利用について
+
+本ソフトウェア、または本ソフトウェアを元にした改変版、派生物、再配布物を商用目的で利用する場合は、事前に作者の許可を得てください。
+
+商用目的には、販売、広告収益を目的とした配布、有料サービスへの組み込み、業務利用、その他収益を得ることを目的とした利用を含みます。
+
+商標・名称の利用について
+
+本ソフトウェアの名称、作者名、ロゴ、ブランド、またはこれらと混同される表示を、作者の許可なく商標的に利用することを禁止します。
+
+本ソフトウェアまたはその派生物を、作者公式の製品であるかのように表示することを禁止します。
+
+免責事項
+
+本ソフトウェアは、現状のまま提供されます。
+
+作者は、本ソフトウェアの動作、品質、特定目的への適合性、データの保全性、その他一切について保証しません。
+
+本ソフトウェアの使用、改変、再配布、または利用不能によって発生した損害、データ消失、その他いかなる問題についても、作者は一切の責任を負いません。
+
+禁止事項
+
+以下の行為を禁止します。
+
+・本ソフトウェアを作者公式の製品であるかのように偽って配布する行為
+・作者の許可なく、本ソフトウェアの名称、ロゴ、ブランドを商標的に利用する行為
+・本ライセンス文を削除して再配布する行為
+・作者の許可なく、本ソフトウェアを商用目的で利用する行為
+
+その他
+
+本ライセンスに明記されていない事項については、作者との協議により決定します。
